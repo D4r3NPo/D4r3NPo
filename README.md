@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @D4r3NPo
-- 👀 I’m interested in Video Game Development 
-- 🌱 I’m currently learning Video Game Development in France 
-- 📫 You can see my work on https://enzosuares.fr
+- 🎮 Software & Game Developer
+- 🛠️ Crafting increasingly ✨ elegant code
+- 🧠 Covering gameplay, networking, UI, and tools
+- 🤖 Working with Godot (and Unity btw)
+- 📍 Based in France 
+- ✨ You can see my work at https://enzosuares.dev
