@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D4r3NPo
-- 🎮 Software & Game Developer
+- 🎮 Game Developer
 - 🛠️ Crafting increasingly ✨ elegant code
 - 🧠 Covering gameplay, networking, UI, and tools
 - 🤖 Working with Godot (and Unity btw)
