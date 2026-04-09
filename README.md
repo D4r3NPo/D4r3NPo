@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @D4r3NPo
-- 🎮 Game Developer
+- 🎮 Game and Software Developer
 - 🛠️ Crafting increasingly ✨ elegant code
-- 🧠 Covering gameplay, networking, UI, and tools
-- 🤖 Working with Godot (and Unity btw)
+- 🧠 Covering gameplay, networking, backend, UI, and tools
 - 📍 Based in France 
 - ✨ You can see my work at https://enzosuares.dev
